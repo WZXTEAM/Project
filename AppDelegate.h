@@ -11,6 +11,7 @@ Private inheritance here hides part of interface from Director.
 class  AppDelegate : private cocos2d::Application
 {
 public:
+    // 这是一行测试代码
     AppDelegate();
     virtual ~AppDelegate();
 
