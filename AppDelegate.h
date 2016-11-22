@@ -12,6 +12,8 @@ class  AppDelegate : private cocos2d::Application
 {
 public:
     // 这是一行测试代码
+
+    
     AppDelegate();
     virtual ~AppDelegate();
 
