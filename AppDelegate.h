@@ -17,7 +17,6 @@ public:
 
     virtual void initGLContextAttrs();
 
-    // 翁泽潇添加的修改测试代码
     /**
     @brief    Implement Director and Scene init code here.
     @return true    Initialize success, app continue.
