@@ -35,6 +35,9 @@ public:
     @param  the pointer of the application
     */
     virtual void applicationWillEnterForeground();
+
+    // 增加1.1新功能
+    // 增加1.1新功能2
 };
 
 #endif // _APP_DELEGATE_H_
